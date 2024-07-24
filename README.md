@@ -1,1 +1,2 @@
-# RAG-infobot
+# RAG-based Infobot
+Welcome to my repository!
