@@ -1,0 +1,9 @@
+utils/__pycache__
+doc_pipeline_components/__pycache__
+inf_pipeline_components/__pycache__
+__pycache__
+.git
+.env
+static
+tests
+dockerfile

@@ -1,0 +1,7 @@
+What are the best practices for log files for oracle on vmware?
+What are the best practices for log files for Microsoft SQL server on vmware?
+What are the best practices for data files for Microsoft SQL on vmware?
+What is the recommended backup strategy for oracle on vmware?
+What are the best practices for placement of data files for Microsoft SQL server?
+What are the documents you have access to?
+What kind of questions can you answer?

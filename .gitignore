@@ -1,0 +1,21 @@
+# all pycache dirs
+__pycache__
+
+# excluding below types of files as they have sensitive values
+*env*
+*compose*
+*nginx*
+*entrypoint*
+*k8s*
+
+# static data such as pdfs for RAG
+flask_api/static/data
+
+# contains img gen outputs
+outputs
+
+# ignore all config files and dirs 
+*conf*
+
+# except this one dir
+!flask_image_gen_api/config/
